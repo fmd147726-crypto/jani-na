@@ -1,0 +1,5 @@
+# Frontend Design Engineering Rules
+1. Always read `./DESIGN.md` before creating any UI component.
+2. Never use generic purple-to-blue gradient text or emoji icon tiles above headings.
+3. Every button must have a proper click size and a loading spinner for async actions.
+4. Verify layouts using Playwright MCP after building pages.
